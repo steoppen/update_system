@@ -1,0 +1,17 @@
+2021/04/12
+2021-04 适用于 Windows 8.1 基于 x86 系统的服务堆栈更新 (KB5001403)； 字节：4.7 MB
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/04/windows8.1-kb5001403-x86_c59ac03777801436fa01dbf341f164a709ce8f8a.msu
+
+2021/04/12
+2021-04 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总 (KB5001382)； 字节：349.7 MB
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/04/windows8.1-kb5001382-x86_13913c751cb8c3cc19d264cd806d39599e828896.msu
+
+2021/03/8
+Internet Explorer 11
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/02/windows8.1-kb5000800-x86_f234e2c338c427a4e6eadccb2648132a22314bbe.msu
+
+
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.1-17801498.exe
+
+http://go.microsoft.com/fwlink/?LinkID=121721&arch=x86
+http://go.microsoft.com/fwlink/?LinkID=121721&arch=x64
