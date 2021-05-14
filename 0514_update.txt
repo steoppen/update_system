@@ -1,0 +1,19 @@
+2021/05/10
+2021-05 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总 (KB5003209)； 字节：349.8 MB
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/05/windows8.1-kb5003209-x86_1fe41635fd335b185dd38a45f42222a7158b0627.msu
+
+
+2021/05/10
+2021-05 适用于 Windows 8.1 基于 x86 系统的 .NET Framework 4.8 的安全和质量汇总 (KB5001845)； 字节：30.7 MB
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/04/windows8.1-kb5001845-x86-ndp48_d6aa134e5f5d02a0083be52bc3ae7184c83863b9.msu
+
+Internet Explorer 11 
+0510
+
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/04/windows8.1-kb5003165-x86_b4a28ec0ac3ceba0dbcb4018ef75b9c05d1e6b08.msu
+
+http://go.microsoft.com/fwlink/?LinkID=121721&arch=x86
+http://go.microsoft.com/fwlink/?LinkID=121721&arch=x64
+
+
+
