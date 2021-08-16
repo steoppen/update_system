@@ -1,10 +1,10 @@
 2021/05/10
-2021-05 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x86 ÏµÍ³µÄÔÂ¶È°²È«ÖÊÁ¿»ã×Ü (KB5003209)£» ×Ö½Ú£º349.8 MB
+2021-05 é€‚ç”¨äº Windows 8.1 åŸºäº x86 ç³»ç»Ÿçš„æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€» (KB5003209)ï¼› å­—èŠ‚ï¼š349.8 MB
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/05/windows8.1-kb5003209-x86_1fe41635fd335b185dd38a45f42222a7158b0627.msu
 
 
 2021/05/10
-2021-05 ÊÊÓÃÓÚ Windows 8.1 »ùÓÚ x86 ÏµÍ³µÄ .NET Framework 4.8 µÄ°²È«ºÍÖÊÁ¿»ã×Ü (KB5001845)£» ×Ö½Ú£º30.7 MB
+2021-05 é€‚ç”¨äº Windows 8.1 åŸºäº x86 ç³»ç»Ÿçš„ .NET Framework 4.8 çš„å®‰å…¨å’Œè´¨é‡æ±‡æ€» (KB5001845)ï¼› å­—èŠ‚ï¼š30.7 MB
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2021/04/windows8.1-kb5001845-x86-ndp48_d6aa134e5f5d02a0083be52bc3ae7184c83863b9.msu
 
 Internet Explorer 11 
